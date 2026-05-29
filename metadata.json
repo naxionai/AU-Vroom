@@ -1,0 +1,10 @@
+{
+  "name": "AU Vroom inDrive Companion",
+  "description": "AU Vroom is an inDrive bidding clone customized for Africa University in Mutare, Zimbabwe. Features high-fidelity Mutare road coordinate tracking, real-time client-driver bid negotiation, and a simulated Zimbabwe sandbox payments corridor.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
